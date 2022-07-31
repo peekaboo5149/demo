@@ -1,0 +1,18 @@
+{
+  "value1": "path.id1",
+  "value2": {
+    "value3": "path.id2"
+  },
+  "value9": "tanmay",
+  "value10": {
+    "value": "panty"
+  },
+  "value3": {
+    "value4": {
+      "value5": "path.id3",
+      "value6": {
+        "value7": { "value8": "path.id4" }
+      }
+    }
+  }
+}
